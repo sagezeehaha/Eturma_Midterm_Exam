@@ -8,8 +8,17 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "express": "^4.21.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sagezeehaha/Eturma_Midterm_Exam.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sagezeehaha/Eturma_Midterm_Exam/issues"
+  },
+  "homepage": "https://github.com/sagezeehaha/Eturma_Midterm_Exam#readme",
+  "description": ""
 }
